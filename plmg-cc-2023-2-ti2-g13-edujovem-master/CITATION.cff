@@ -1,0 +1,28 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: EduJovem
+authors:
+  - family-names: Fagundes Araujo
+    given-names: Matheus
+  - family-names: Drummond
+    given-names: Rodrigo
+  - family-names: Neuenschwander
+    given-names: Thomas
+  - family-names: Dutra Goddard
+    given-names: Vinicios
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Jerônimo de Almeida
+    given-names: Sandro
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Paulo
+    given-names: Marcos
+keywords:
+  - Educação Financeira
+  - Educação para Jovens
+  - Sistema Inteligente
+repository-code: https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g13-edujovem
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2022-12-12
